@@ -78,6 +78,7 @@
     "dist/",
     "i18n/",
     "scripts/",
+    "icon.svg",
     "README.md",
     "README.zh-CN.md",
     "package.json"
