@@ -9,8 +9,7 @@
   "homepage": "https://finchwork.app",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/finchtoys/finch-releases.git",
-    "directory": "extensions/pp-ocrv6"
+    "url": "git+https://github.com/joehe71/pp-ocrv6.git"
   },
   "license": "MIT",
   "type": "module",
