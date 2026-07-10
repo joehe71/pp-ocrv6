@@ -1,6 +1,6 @@
 {
   "name": "@joehe71/pp-ocrv6",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "OCR extension powered by PP-OCRv6 — extract Chinese and English text from images using Python PaddleOCR.",
   "author": {
     "name": "Finch Team",
